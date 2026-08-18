@@ -2,7 +2,7 @@ int buttonpin = 4; // digital pin for button in arduino nano
 int porchlight = 8; //digital pin  white led(porch light)
 int hallwaylight = 9;//digital pin - red led(hallway light)
 
-int delaytime = 3000;// 30 secounds
+int delaytime = 30000;// 30 secounds
 int buttonstate = 0; 
 
 void setup()
